@@ -1,6 +1,6 @@
 # BPSR Fishing Bot
 
-An automated fishing bot for BPSR (Black Pearl Sea of Robbers) that uses computer vision to detect fishing events and automatically perform fishing actions.
+An automated fishing bot for BPSR (Blue Protocol: Star Resonance) that uses computer vision to detect fishing events and automatically perform fishing actions.
 
 ## Features
 
@@ -160,3 +160,9 @@ Feel free to submit issues or pull requests to improve the bot's functionality.
 ## License
 
 This project is provided as-is for educational purposes.
+
+## Support
+
+For any questions, problems etc contact me:
+- Discord: f1shyondrugs312
+- Email: info@f1shy312.com
