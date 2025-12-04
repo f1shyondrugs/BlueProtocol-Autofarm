@@ -124,6 +124,11 @@ The bot monitors these specific colors:
 - **Clean Exit**: Properly releases all held keys and mouse buttons
 
 ## Troubleshooting
+If the Troubleshoots dont work below, contact me (View _Support_ at the bottom)
+
+### Not clicking "Continue Fishing" when a fish got caught
+1. If your game is in windowed, try putting it into Full Screen
+2. Adjust color tolerance values if needed
 
 ### Bot Not Detecting Colors
 1. Check if your screen resolution matches the configured coordinates
@@ -167,4 +172,5 @@ This project is provided as-is for educational purposes.
 For any questions, problems etc contact me:
 - Discord: f1shyondrugs312
 - Email: info@f1shy312.com
+
 
