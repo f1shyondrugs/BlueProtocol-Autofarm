@@ -1,3 +1,4 @@
+# 🌟 Please Star my repo y'all i need the Stars
 # BPSR Fishing Bot
 
 An automated fishing bot for BPSR (Blue Protocol: Star Resonance) that uses computer vision to detect fishing events and automatically perform fishing actions.
@@ -166,3 +167,4 @@ This project is provided as-is for educational purposes.
 For any questions, problems etc contact me:
 - Discord: f1shyondrugs312
 - Email: info@f1shy312.com
+
